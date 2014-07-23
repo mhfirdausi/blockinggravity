@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Ball.png</Source>
+      <Name>Ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\Ball.xnb</Output>
+      <Time>2012-02-03T10:46:51.8375129-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Block.png</Source>
+      <Name>Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\Block.xnb</Output>
+      <Time>2012-02-04T12:47:06.8888209-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UsedMusic\2DPolygon - Destination.mp3</Source>
+      <Name>UsedMusic\2DPolygon - Destination</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\2DPolygon - Destination.xnb</Output>
+      <Extra>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\2DPolygon - Destination.wma</Extra>
+      <Time>2012-02-04T12:20:33.706598-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UsedMusic\ChronoNomad - Forever Fantasy.mp3</Source>
+      <Name>UsedMusic\ChronoNomad - Forever Fantasy</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\ChronoNomad - Forever Fantasy.xnb</Output>
+      <Extra>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\ChronoNomad - Forever Fantasy.wma</Extra>
+      <Time>2012-02-04T12:13:15.8792008-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UsedMusic\cornandbeans - Midnight.mp3</Source>
+      <Name>UsedMusic\cornandbeans - Midnight</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\cornandbeans - Midnight.xnb</Output>
+      <Extra>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\cornandbeans - Midnight.wma</Extra>
+      <Time>2012-02-04T12:19:36.5829392-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UsedMusic\Dimrain47 - A Spectrum Wind.mp3</Source>
+      <Name>UsedMusic\Dimrain47 - A Spectrum Wind</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\Dimrain47 - A Spectrum Wind.xnb</Output>
+      <Extra>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\Dimrain47 - A Spectrum Wind.wma</Extra>
+      <Time>2012-02-04T12:00:49.4508977-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UsedMusic\Dimrain47 - Jetstream!.mp3</Source>
+      <Name>UsedMusic\Dimrain47 - Jetstream!</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\Dimrain47 - Jetstream!.xnb</Output>
+      <Extra>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\Dimrain47 - Jetstream!.wma</Extra>
+      <Time>2012-02-04T12:45:49.061931-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UsedMusic\DimRain47 - Operation Evolution.mp3</Source>
+      <Name>UsedMusic\DimRain47 - Operation Evolution</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\DimRain47 - Operation Evolution.xnb</Output>
+      <Extra>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\DimRain47 - Operation Evolution.wma</Extra>
+      <Time>2012-02-04T12:25:38.1781044-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UsedMusic\Dimrain47 - Twilight Techno.mp3</Source>
+      <Name>UsedMusic\Dimrain47 - Twilight Techno</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\Dimrain47 - Twilight Techno.xnb</Output>
+      <Extra>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\Dimrain47 - Twilight Techno.wma</Extra>
+      <Time>2012-02-04T18:46:42.4337907-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UsedMusic\DjBjra - Above the Clouds.mp3</Source>
+      <Name>UsedMusic\DjBjra - Above the Clouds</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\DjBjra - Above the Clouds.xnb</Output>
+      <Extra>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\DjBjra - Above the Clouds.wma</Extra>
+      <Time>2012-02-04T12:09:46.7054617-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UsedMusic\durn - Seasons.mp3</Source>
+      <Name>UsedMusic\durn - Seasons</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\durn - Seasons.xnb</Output>
+      <Extra>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\durn - Seasons.wma</Extra>
+      <Time>2012-02-04T11:56:10.5666002-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UsedMusic\JEBBAL - Dead Logic.mp3</Source>
+      <Name>UsedMusic\JEBBAL - Dead Logic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\JEBBAL - Dead Logic.xnb</Output>
+      <Extra>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\JEBBAL - Dead Logic.wma</Extra>
+      <Time>2012-02-04T11:52:21.1610577-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UsedMusic\Wahnsinn - Magdalenian.mp3</Source>
+      <Name>UsedMusic\Wahnsinn - Magdalenian</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\Wahnsinn - Magdalenian.xnb</Output>
+      <Extra>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\Wahnsinn - Magdalenian.wma</Extra>
+      <Time>2012-02-04T12:05:42.5899277-06:00</Time>
+    </Item>
+    <Item>
+      <Source>RobotoFont.spritefont</Source>
+      <Name>RobotoFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\RobotoFont.xnb</Output>
+      <Time>2012-03-14T15:28:30.5192146-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Arrow.png</Source>
+      <Name>Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\Arrow.xnb</Output>
+      <Time>2012-02-28T00:47:10.5856654-06:00</Time>
+    </Item>
+    <Item>
+      <Source>blockGravityLogoLarge.png</Source>
+      <Name>blockGravityLogoLarge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\blockGravityLogoLarge.xnb</Output>
+      <Time>2012-02-25T13:42:10.6295487-06:00</Time>
+    </Item>
+    <Item>
+      <Source>backGround.png</Source>
+      <Name>backGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\backGround.xnb</Output>
+      <Time>2012-02-29T01:05:35.1302034-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UsedMusic\Sad-Trombone.mp3</Source>
+      <Name>UsedMusic\Sad-Trombone</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\Sad-Trombone.xnb</Output>
+      <Extra>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\Sad-Trombone.wma</Extra>
+      <Time>2012-03-14T16:18:41.8174504-05:00</Time>
+    </Item>
+    <Item>
+      <Source>UsedMusic\Click.WAV</Source>
+      <Name>UsedMusic\Click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\Click.xnb</Output>
+      <Time>2012-03-17T11:32:02.3104409-05:00</Time>
+    </Item>
+    <Item>
+      <Source>UsedMusic\Pulse.WAV</Source>
+      <Name>UsedMusic\Pulse</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\Pulse.xnb</Output>
+      <Time>2012-03-17T11:48:00.077222-05:00</Time>
+    </Item>
+    <Item>
+      <Source>UsedMusic\Cheer.wav</Source>
+      <Name>UsedMusic\Cheer</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\UsedMusic\Cheer.xnb</Output>
+      <Time>2012-03-17T14:22:08.8292203-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity BallContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity BallContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Chico\Documents\school2011\Senior Project\Gravity Ball\Gravity Ball\Gravity Ball\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-10-12T09:26:39.6738527-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
